@@ -32,8 +32,8 @@
 		                        <div class="col-md-offset-1 col-md-10">
 		                            <h2 class="mb-xs-16">&nbsp;An unique opportunity for driven entrepreneurs to roll out a startup with a proven business model</h2>
 		                            <p class="lead mb40">Apply for the next batch of  Dymolab Ventures program in Bogota, Colombia, starting early 2016. Apply as a team or as an individual, lead a project and roll out a startup with the help of professionals.</p>
-		                            <a class="btn btn-lg" href="#">more information</a>
-		                            <a class="btn btn-lg btn-filled" href="#">Apply to the program</a>
+		                            <a class="btn btn-lg" href="#information">more information</a>
+		                            <a class="btn btn-lg btn-filled" href="/entrepreneur.php">Apply to the program</a>
 		                        </div>
 		                    </div>
 
@@ -48,8 +48,8 @@
 		                        <div class="col-md-10 col-md-offset-1">
 		                            <h2 class="mb-xs-16">Meet Dymolab, the cleverest way<br class="hidden-sm"> to expand your startup to Latin America.</h2>
 		                            <p class="lead mb40">We look for innovative projects in the Benelux, Germany and the UK, adapt them to local Latin American markets and reincubate them with talented local entrepreneurs.</p>
-		                            <a class="btn btn-lg" href="#">More information</a>
-		                            <a class="btn btn-lg btn-filled" href="#">For EU startups</a>
+		                            <a class="btn btn-lg" href="#information">More information</a>
+		                            <a class="btn btn-lg btn-filled" href="/startups.php">For EU startups</a>
 		                        </div>
 		                    </div>
 
@@ -59,7 +59,7 @@
 		        </ul>
 		    </section>
 
-        <section>
+        <section id = "information">
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-4">

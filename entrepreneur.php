@@ -30,7 +30,7 @@
     		        <div class="container">
     		            <div class="row">
     		                <div class="col-md-6">
-    		                    <h3 class="uppercase mb0">entrepreneur in residence</h3>
+    		                    <h3 class="mb0">entrepreneur in residence</h3>
     		                </div>
     		                <div class="col-md-6 text-right">
                           <center>  <a class="btn-filled btn" href="#apply">Apply now</a>
@@ -76,12 +76,16 @@
     		            </div>
 
     		        </div>
+    		    </section>
+            <section>
 
-                <div class="col-sm-12 col-md-10 col-md-offset-1 text-center">
-                    <h3>What we are looking for</h3>
-                </div>
+              <div class="col-sm-12 col-md-10 col-md-offset-1 text-center">
+                  <h3>What we are looking for</h3>
+                  <p> Motivated , entrepepreneur with the capacity to execute</p>
+                  <p></p>
+                  
+              </div>
 
-    		    </section><section>
     		        <div class="container" id = "criteria">
     		            <div class="row">
     		                <div class="col-md-4 col-sm-6">

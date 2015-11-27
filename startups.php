@@ -31,7 +31,7 @@
           <div class="container">
               <div class="row">
                   <div class="col-md-6">
-                      <h3 class="uppercase mb0">Lean and fast expansion to a market of more than 600 million customers</h3>
+                      <h3 class="mb0">Lean and fast expansion to a market of more than 600 million customers</h3>
                   </div>
 
               </div>
