@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-		<title>Kiron Ventures | About </title>
+		<title>Dymolab Ventures | About </title>
 
 		<?php $docpath = $_SERVER['DOCUMENT_ROOT'];?>
 		<?php include_once($docpath . "/php/head.php"); ?>

@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-		<title>Kiron Ventures | Investors </title>
+		<title>Dymolab | Startups </title>
 
 		<?php $docpath = $_SERVER['DOCUMENT_ROOT'];?>
 		<?php include_once($docpath . "/php/head.php"); ?>
@@ -99,7 +99,7 @@
                               <i class="icon et-line-envelope"></i>
                               <h5 class="uppercase">Contact us</h5>
                           </div>
-                          <p>Get in contact &nbsp;at <a href="mailto:scale-up@dymolab.com">scale-up@dymolab.com</a>. Send us an executive summary of your project, accomplishments and any visual help you can provide (pitch, website, videos, crowdfunding campaign, google analytics screenshots etc).&nbsp;</p>
+                          <p>Get in contact &nbsp;at <a href="mailto:contact@dymolab.com">contact@dymolab.com</a>. Send us an executive summary of your project, accomplishments and any visual help you can provide (pitch, website, videos, crowdfunding campaign, google analytics screenshots etc).&nbsp;</p>
                       </div>
 
                   </div>
@@ -140,8 +140,8 @@
           <div class="container">
               <div class="row">
                   <div class="col-sm-12 text-center">
-                      <h3 class="mb0 inline-block p32 p0-xs">Get in contact at <a href="mailto:scale-up@dymolab.com">scale-up@dymolab.com</a> &nbsp;</h3>
-                      <a class="btn btn-lg btn-white mb8 mt-xs-24" href="mailto:scale-up@dymolab.com">Send us an email</a>
+                      <h3 class="mb0 inline-block p32 p0-xs">Get in contact at <a href="mailto:contact@dymolab.com">contact@dymolab.com</a> &nbsp;</h3>
+                      <a class="btn btn-lg btn-white mb8 mt-xs-24" href="mailto:contact@dymolab.com">Send us an email</a>
                   </div>
               </div>
 

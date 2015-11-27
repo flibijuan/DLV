@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-       <title>Kiron Ventures | Home </title>
+       <title>Dymolab | Entrepreneurs </title>
 
        	   	<?php $docpath = $_SERVER['DOCUMENT_ROOT'];?>
                <?php include_once($docpath . "/php/head.php"); ?>
@@ -83,7 +83,7 @@
                   <h3>What we are looking for</h3>
                   <p> Motivated , entrepepreneur with the capacity to execute</p>
                   <p></p>
-                  
+
               </div>
 
     		        <div class="container" id = "criteria">

@@ -1,11 +1,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link rel="icon" type="image/png" href="/img/favicon/favicon-194x194.png" sizes="194x194">
-<link rel="icon" type="image/png" href="/img/favicon/android-chrome-192x192.png" sizes="192x192">
-<link rel="icon" type="image/png" href="/img/favicon/favicon-16x16.png" sizes="16x16">
-<link rel="icon" type="image/png" href="/img/favicon/favicon-32x32.png" sizes="32x32">
-<link rel="shortcut icon" href="/img/favicon/favicon.ico">
+
+<link rel="shortcut icon" href="/img/favicon/favicon.png">
 
 <meta name="author" content="Juan David Mendieta"/>
 <meta name="keywords" content="startup,incubator,investment, entrepreneur in residence,colombia,south america,found,founder"/>
