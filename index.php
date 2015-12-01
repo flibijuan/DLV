@@ -127,12 +127,9 @@
 		            <div class="row">
 		                <div class="col-sm-12 text-center">
 		                    <h2 class="mb8">Where to find us</h2>
-		                    <p class="lead mb40 mb-xs-24">If you want to get to know about our investment system send us an email at
-		                    at <a href="mailto:investors@dymolab.com">investors@dymolab.com</a></p>
-                        <p class="lead mb40 mb-xs-24">If you want get to know about our applications for entrepreneurs in Bogota, Colombia send us an email at
-		                    at <a href="mailto:apply@dymolab.com">apply@dymolab.com</a></p>
-                        <p class="lead mb40 mb-xs-24">If you want to get to know about how to expand your startup to Latin America send us an email at
-		                    at <a href="mailto:scale-up@dymolab.com">scale-up@dymolab.com</a></p>
+		                    <p class="lead mb40 mb-xs-24">If you want to get to know about our investment system, our applications for entrepreneurs in Bogota, Colombia or about how to expand your startup to Latin America send us an email
+
+		                    at <a href="mailto:scale-up@dymolab.com">contact@dymolab.com</a></p>
 		                </div>
 		            </div>
 
