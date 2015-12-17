@@ -10,7 +10,7 @@
 <li><a href="#">Other services</a>
 <ul>
 <li><a href="http://www.dymolab.com/es">Crowdselling&nbsp;</a></li>
-<li><a href="community.dymolabventures.com">Startup Events&nbsp;</a></li>
+<li><a href="http://community.dymolabventures.com/">Startup Events&nbsp;</a></li>
 </ul>
 </li>
 <li><a href="/startups.php">Startups</a></li>
