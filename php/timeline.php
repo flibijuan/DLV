@@ -28,7 +28,7 @@
 <div class="row">
 			<div class="timeline-item">
 				<div class="timeline-content">
-				<h2>3. Implementation programme 6 months</h2>
+				<h2>3. Implementation program 6 months</h2>
 				<p class="timeline">
 			Each team becomes a Startup that starts to roll out the peoject. Dymolab will help to handle the relation with the startup and provide office, mentoring, marketing and financial support.
 
