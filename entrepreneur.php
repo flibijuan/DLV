@@ -30,7 +30,7 @@
     		        <div class="container">
     		            <div class="row">
     		                <div class="col-md-6">
-    		                    <h3 class="mb0">entrepreneur in residence</h3>
+    		                    <h3 class="mb0">Entrepreneur in residence</h3>
     		                </div>
     		                <div class="col-md-6 text-right">
                           <center>  <a class="btn-filled btn" href="#apply">Apply now</a>
@@ -81,7 +81,7 @@
 
               <div class="col-sm-12 col-md-10 col-md-offset-1 text-center">
                   <h3>What we are looking for</h3>
-                  <p> Motivated , entrepepreneur with the capacity to execute</p>
+                  <p> Motivated , entrepreneur with the capacity to execute</p>
                   <p></p>
 
               </div>
@@ -120,7 +120,7 @@
     		                        </div>
     		                        <div class="right">
     		                            <h5 class="uppercase mb16">TEAM WORK</h5>
-    		                            <p>We highly value teamwork. During the first 2 months of the programme entrepreneurs will be matched to create teams. &nbsp;</p>
+    		                            <p>We highly value teamwork. During the first 2 months of the program entrepreneurs will be matched to create teams. &nbsp;</p>
     		                        </div>
     		                    </div>
 
@@ -156,7 +156,7 @@
     		                        </div>
     		                        <div class="right">
     		                            <h5 class="uppercase mb16">English</h5>
-    		                            <p>As you will be in contact with entrepreneurs from all over the world, a adequate proficiency in English is fundamental to lead a project.&nbsp; </p>
+    		                            <p>As you will be in contact with entrepreneurs from all over the world, an adequate proficiency in English is fundamental to lead a project.&nbsp; </p>
     		                        </div>
     		                    </div>
 
