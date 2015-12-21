@@ -55,3 +55,5 @@ $config['username_domain'] = 'jd.mendieta807@gmail.com';
 // ----------------------------------
 // List of active plugins (in plugins/ directory)
 $config['plugins'] = array();
+
+$config['enable_installer'] = true;
