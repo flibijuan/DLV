@@ -27,7 +27,7 @@ $config['db_dsnw'] = 'mysql://root:kAk0XUMx5P@localhost/email';
 // For example %n = mail.domain.tld, %t = domain.tld
 // WARNING: After hostname change update of mail_host column in users table is
 //          required to match old user data records with the new host.
-$config['default_host'] = 'ns1.digitalocean.com';
+$config['default_host'] = array('ssl://ns1.digitalocean.com', 'ssl://ns2.digitalocean.com.', 'ssl://ns3.digitalocean.com.');
 
 // provide an URL where a user can get support for this Roundcube installation
 // PLEASE DO NOT LINK TO THE ROUNDCUBE.NET WEBSITE HERE!
@@ -56,4 +56,3 @@ $config['username_domain'] = 'jd.mendieta807@gmail.com';
 // List of active plugins (in plugins/ directory)
 $config['plugins'] = array();
 
-$config['enable_installer'] = true;
