@@ -7,10 +7,11 @@
 		<?php $docpath = $_SERVER['DOCUMENT_ROOT'];?>
 		<?php include_once($docpath . "/php/head.php"); ?>
 
-		<?php include_once("php/googleanalytics.php") ?>
+
         <link href="css/pe-icon-7-stroke.css" rel="stylesheet" type="text/css" media="all">
     </head>
     <body class="btn-rounded">
+      <?php include_once("php/googleanalytics.php") ?>
 			<div class="nav-container">
     		    <nav>
     		    	<?php include_once("php/navbar.php") ?>

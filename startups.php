@@ -72,7 +72,7 @@
                               <i class="mb40 mb-xs-24 inline-block color-primary et-line-map icon-lg"></i>
                               <h5 class="uppercase">Test local market match</h5>
                           </div>
-                          <p>We know that not all models work exactly the same way in different cultures or countries. That's why at Dymolab we give a 2 months market match assessment, with the help of our advisors, mentors and enrepreneurs. We then change the necessary parts of the business model and start to roll out.</p>
+                          <p>We know that not all models work exactly the same way in different cultures or countries. That's why at Dymolab we give a 2 months market match assessment, with the help of our advisors, mentors and entrepreneurs. We then change the necessary parts of the business model and start to roll out.</p>
                       </div>
 
                   </div>
