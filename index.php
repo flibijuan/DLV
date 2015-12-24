@@ -8,10 +8,11 @@
         <?php include_once($docpath . "/php/head.php"); ?>
 		<style> <?php include_once($docpath . "/css/timeline.css"); ?> </style>
 
-		<?php include_once("php/googleanalytics.php") ?>
+
     <style><?php include_once($docpath . "/css/timeline.css"); ?></style>
     </head>
     <body class="btn-rounded">
+<?php include_once("php/googleanalytics.php") ?>
 
 		<div class="nav-container">
 			<nav>
