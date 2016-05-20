@@ -25,8 +25,8 @@
     		        </div>
     		        <div class="container">
     		            <div class="row">
-    		                <div class="col-md-6">
-    		                    <h3 class="mb0">We believe in the power of entrepreneurship to change society. &nbsp;</h3>
+    		                <div class="col-md-10">
+    		                    <h3 class="mb0">We believe that in todays globalized world exelence of implementation and the right local support are the keys to outperform competition when growing a business &nbsp;</h3>
     		                </div>
 
     		            </div>
@@ -44,7 +44,8 @@
     		                            <i class="mb40 mb-xs-24 inline-block color-primary et-line-flag icon-lg"></i>
     		                            <h5 class="uppercase">Mission</h5>
     		                        </div>
-    		                        <p>Implement successful European startups in Latin America.&nbsp;<br>Give an unique opportunity to anyone with the right skills and work ethic to become an entrepreneur. &nbsp;<br>
+    		                        <p>Become the best market expansion system in Latin
+
     		</p>
     		                    </div>
 
@@ -55,7 +56,7 @@
     		                            <i class="mb40 mb-xs-24 inline-block color-primary et-line-compass icon-lg"></i>
     		                            <h5 class="uppercase">Vision</h5>
     		                        </div>
-    		                        <p>We believe in the power of entrepreneurship to create change in society: that innovation can disrupt the status quo and create a more equal and functional society.&nbsp;<br><br>Dymolab wants to become the reference for&nbsp;sustainable entrepreneurship in Latin America and create a vibrant innovative and agile entrepreneurial ecosystem in which ideas and communities that change society get started.</p>
+    		                        <p>Bring all the worlds innovation to Latin America adapted to the local needs</p>
     		                    </div>
 
     		                </div>
@@ -63,7 +64,76 @@
 
     		        </div>
 
-    		    </section><section>
+    		    </section>
+
+            <section>
+            		        <div class="container">
+            		            <div class="row">
+            		                <div class="col-md-4 col-sm-6">
+            		                    <div class="image-tile outer-title text-center" width = "50%">
+
+<div class="row">
+
+  <div class="col-md-8 col-xs-8 col-xs-offset-2">
+  <img lengh="50px" alt="Juan " src="img/juan.png">
+</div>
+</div>
+
+
+
+                                        <div class="title mb16">
+            		                            <h5 class="uppercase mb0">Juan David Mendieta</h5>
+            		                            <span>Expert in business development</span>
+            		                        </div>
+                                        <div class="row">   <div class = "col-xs-2 col-xs-offset-5">
+
+                                        <a href="https://be.linkedin.com/in/davidmendieta">  <img src="img/linkedin-logo.png"></a></div></div>
+            		                    </div>
+            		                </div>
+            		                <div class="col-md-4 col-sm-6">
+            		                    <div class="image-tile outer-title text-center">
+                                      <div class="row">
+
+                                        <div class="col-md-8 col-xs-8 col-xs-offset-2">
+                                        <img lengh="50px" alt="Juan " src="img/daniel.png">
+                                      </div>
+                                      </div>
+            		                        <div class="title mb16">
+            		                            <h5 class="uppercase mb0">Daniel Visbal</h5>
+            		                            <span>Expert in project management</span>
+            		                        </div>
+                                        <div class="row">   <div class = "col-xs-2 col-xs-offset-5">
+
+                                        <a href="https://co.linkedin.com/in/daniel-visbal-2b57a445/en">  <img src="img/linkedin-logo.png"></a></div></div>
+                                    </div>
+            		                </div>
+            		                <div class="col-md-4 col-sm-6">
+            		                    <div class="image-tile outer-title text-center">
+                                      <div class="row">
+
+                                        <div class="col-md-8 col-xs-8 col-xs-offset-2">
+                                        <img lengh="50px" alt="Juan " src="img/nicolas.png">
+                                      </div>
+                                      </div>
+            		                        <div class="title mb16">
+            		                            <h5 class="uppercase mb0">Nicolas Corredor</h5>
+            		                            <span>Expert in finance and strtegy implementation</span>
+            		                        </div>
+                                        <div class="row">   <div class = "col-xs-2 col-xs-offset-5">
+
+                                        <a href="https://co.linkedin.com/in/nicolás-corredor-77954363/en">  <img src="img/linkedin-logo.png"></a></div></div>
+                                    </div>
+
+
+            		                    </div>
+            		                </div>
+            		            </div>
+
+            		        </div>
+
+            		    </section>
+
+            <section>
     		        <div class="container">
     		            <div class="feed-item mb96 mb-xs-48">
     		                <div class="row mb16 mb-xs-0">
@@ -76,10 +146,12 @@
     		                <div class="row mb32 mb-xs-16">
     		                    <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
     		                        <img alt="Article Image" class="mb32 mb-xs-16" src="img/dymolabbaner.jpg">
-    		                        <p class="lead">We've built a distinct entrepreneurship product. Dymolab implements European proven business models in Latin America in order to create local impact and economic development in the region. The goal is twofold: firstly to create a social and cultural change and give an unique opportunity to anyone with the right skills and work ethic to become an entrepreneur in Latin America in a sustainable way. And secondly to enable our motivated European startups to scale-up their projects and therefore provide a competitive return on investment for investors.</p>
+    		                        <p class="lead">We've built a distinct entrepreneurship product. Dymolab implements Innovative proven business models in Latin America in order to create local impact and economic development in the region. The goal is twofold: firstly, to create impact in society by pushing the boundaries of innovation and making the Latam region at the same level in terms of technology than other regions like the USA or Europe. And secondly to create a competitive advantage for our clients by enabling them to efficiently scale-up their projects to Latin America.</p>
                                 <p>We focus on: </p>
-                                <p>• Creating amazing teams of entrepreneurs by matching the right profiles for each project<br>• Diminishing the risks of setting up a startup on a foreign continent <br>• Building a network of people passionate about entrepreneurship<br>
-                                  • Providing sustainable entrepreneurship through a combination of financial support, shares incentives and a focus on people.</p>
+                                <p>• finding the right project to expand to the region
+<br>• Diminishing the risks of setting up a startup on a foreign continent 
+ <br>• Building a network of people passionate about entrepreneurship
+ <br>• provide a cost efficient way to scale-up a business model</p>
 
     		                    </div>
     		                </div>
@@ -93,6 +165,10 @@
     		            </div>
 
     		        </div></section>
+
+
+
+
 
 
 

@@ -24,33 +24,17 @@
 <div class="main-container">
 		<section class="image-slider slider-all-controls controls-inside pt0 pb0 height-70 parallax">
 		        <ul class="slides">
-		            <li class="overlay image-bg">
-		                <div class="background-image-holder">
-		                    <img alt="image" class="background-image" src="img/cover11.jpg">
-		                </div>
-		                <div class="container v-align-transform">
-		                    <div class="row text-center">
-		                        <div class="col-md-offset-1 col-md-10">
-		                            <h2 class="mb-xs-16">&nbsp;An unique opportunity for driven entrepreneurs to roll out a startup with a proven business model</h2>
-		                            <p class="lead mb40">Apply for the next batch of  Dymolab Ventures program in Bogota, Colombia, starting early 2016. Apply as a team or as an individual, lead a project and roll out a startup with the help of professionals.</p>
-		                            <a class="btn btn-lg" href="#information">more information</a>
-		                            <a class="btn btn-lg btn-filled" href="/entrepreneur.php">Apply to the program</a>
-		                        </div>
-		                    </div>
-
-		                </div>
-
-		            </li><li class="overlay image-bg">
+		           <li class="overlay image-bg">
 		                <div class="background-image-holder">
 		                    <img alt="image" class="background-image" src="img/home3.jpg">
 		                </div>
 		                <div class="container v-align-transform">
 		                    <div class="row text-center">
 		                        <div class="col-md-10 col-md-offset-1">
-		                            <h2 class="mb-xs-16">Meet Dymolab, the cleverest way<br class="hidden-sm"> to expand your startup to Latin America.</h2>
-		                            <p class="lead mb40">We look for innovative projects in the Benelux, Germany and the UK, adapt them to local Latin American markets and reincubate them with talented local entrepreneurs.</p>
-		                            <a class="btn btn-lg" href="#information">More information</a>
-		                            <a class="btn btn-lg btn-filled" href="/startups.php">For EU startups</a>
+		                            <h2 class="mb-xs-16">Meet Dymolab, the cleverest way<br class="hidden-sm"> to expand your company to Latin America.</h2>
+		                            <p class="lead mb40">We look for innovative projects and help them to enter the Latin American markets by finding the right local talent to develop the business and and providing all the support needed to scale up the project.</p>
+		                            <a class="btn btn-lg" href="/services.php">Services</a>
+		                            <a class="btn btn-lg btn-filled" href="/startups.php">our aproach</a>
 		                        </div>
 		                    </div>
 
@@ -67,29 +51,32 @@
 		                    <div class="feature feature-1 boxed">
 		                        <div class="text-center">
 		                            <i class="icon et-line-globe"></i>
-		                            <h4>We find startups with proven business models</h4>
+		                            <h4>Market fit assesment</h4>
 		                        </div>
-		                        <p>Dymolab experts search for high potential startups in Europe (focus on Germany, Benelux and the UK) that have a beta product or a market launch and have been able to make revenues and/or attract customers. We establish relationships to initiate a re-incubation process in Latin America.<br><br></p>
+		                        <p>We make sure that you have a local proof of concept. We do this with our own experts or by advizing your team (local or international) on how, in a very lean way you yourself can test assumptions and understand the right scaling-up strategy to enter the region.
+<br><br></p>
 		                    </div>
 
 		                </div>
 		                <div class="col-sm-4">
 		                    <div class="feature feature-1 boxed">
 		                        <div class="text-center">
-		                            <i class="icon et-line-megaphone"></i>
-		                            <h4>We create a team of &nbsp;entrepreneurs</h4>
+		                        <i class="icon et-line-profile-male"></i>
+		                            <h4>Create your local team</h4>
 		                        </div>
-		                        <p>We have an open call for our program in Bogota, Colombia, to attract motivated individuals or teams of entrepreneurs that would like to become co-founders of one of the Dymolab startups and go through the 6 month program with us. &nbsp;&nbsp;<br><br><br></p>
+		                        <p>We find outstanding entrepreneurs, organizations, managers and technical expertise for you to deploy your business. Throughout this process Dymmolab will be your ally in closing a deal with the local talent.
+ <br><br><br></p>
 		                    </div>
 
 		                </div>
 		                <div class="col-sm-4">
 		                    <div class="feature feature-1 boxed">
 		                        <div class="text-center">
-		                            <i class="icon et-line-beaker"></i>
-		                            <h4>Reincubation of startups in Latin America</h4>
+		                             <i class="icon et-line-hourglass"></i>
+		                            <h4> Go-to-market speed</h4>
 		                        </div>
-		                        <p>In cooperation with the European startups, we replicate their concepts in Latin America. We create synergies by making use of the same corporate identity, intellectual property and digital infrastructure. The project would go through an initial 2 month program to find a market fit and an additional 6 month program for the actual incubation of the project.</p>
+		                        <p>We believe that companies in expansion require efficiency in implementation and excellence in execution to generate a competitive advantage. At Dymolab we have you covered on all fronts: legal, strategy, office space, distribution channels, network of partner companies etc...
+</p>
 		                    </div>
 
 		                </div>
@@ -101,6 +88,61 @@
 		    </section>
 
 
+        <section class="bg-primary">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12 text-center">
+                                <h3 class="mb0 inline-block p32 p0-xs">
+                                  Are you thinking about entering the >600m market in Latin America?</h3>
+                                <h4> we focus on supporting the innovation industry: getting tech products and services to market and adapt them to the local needs</h4>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </section>
+
+
+
+        <section class="image-edge">
+        		        <div class="col-md-6 col-sm-4 p0 col-md-push-6 col-sm-push-8">
+        		            <img width="80%" alt="Screenshot" class="mb-xs-24" src="img/latinamerica.png">
+        		        </div>
+        		        <div class="container">
+        		            <div class="col-md-5 col-md-pull-0 col-sm-7 col-sm-pull-4 v-align-transform">
+        		                <h1 class="large mb40 mb-xs-16">Starting from Colombia</h1>
+
+        		                <p class="lead mb40">
+        		                We initiate the scale-up your project by first expanding your business to the more stable markets in the region. Our offices are in Bogota, Colombia, and we recommend our clients to start their expansion strategy here. As soon as the team in Colombia is up an running we will support you to enter other high potential markets like Mexico, Brazil and Chile.
+
+        		                </p>
+
+        		            </div>
+        		        </div>
+
+        		    </section>
+
+
+
+
+
+
+                <section class="image-bg bg-dark parallax overlay pt120 pb120">
+        		        <div class="background-image-holder">
+        		            <img alt="Background Image" class="background-image" src="img/app9.jpg">
+        		        </div>
+        		        <div class="container">
+        		            <div class="row">
+        		                <div class="col-sm-12 text-center">
+        		                    <h2 class="uppercase mb8">Why Dymolab</h2>
+        		                    <p class="lead mb40"> Our clients have discovered that working with us means achieving market penetration and financial sustainability for their businesses in Latin America in record time. This reduces the cost of the implementation and provides a competitive advantage on the local market.</p>
+
+        		                </div>
+        		            </div>
+
+        		        </div>
+
+        		    </section>
 
 
 
@@ -108,29 +150,16 @@
 
 
 
-
-
-
-
-
-
-
-
-		        <div class="container">
-		            <div class="row">
-		               	<?php include_once("php/timeline.php"); ?>
-		            </div>
-
-		        </div>
 
 		  <section class="bg-dark pt64 pb64">
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-12 text-center">
 		                    <h2 class="mb8">Where to find us</h2>
-		                    <p class="lead mb40 mb-xs-24">If you want to get to know about our investment system, our applications for entrepreneurs in Bogota, Colombia or about how to expand your startup to Latin America send us an email
+		                    <p class="lead mb40 mb-xs-24">If you want to know more about our pricing, how to become a client and general information about how to expand your startup to Latin America send us an email at 
 
-		                    at <a href="mailto:scale-up@dymolab.com">contact@dymolab.com</a></p>
+
+		                   <a href="mailto:scale-up@dymolab.com">contact@dymolab.com</a></p>
 		                </div>
 		            </div>
 

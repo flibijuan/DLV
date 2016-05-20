@@ -31,7 +31,7 @@
           <div class="container">
               <div class="row">
                   <div class="col-md-6">
-                      <h3 class="mb0">Lean and fast expansion to a market of more than 600 million customers</h3>
+                      <h3 class="mb0">Our Aproach: Lean and fast expansion to a market of more than 600 million customers</h3>
                   </div>
 
               </div>
@@ -51,18 +51,18 @@
                       <div class="feature">
                           <div class="text-center">
                               <i class="mb40 mb-xs-24 inline-block color-primary et-line-global icon-lg"></i>
-                              <h5 class="uppercase">Lean and fast expansion</h5>
+                              <h5 class="uppercase">Adapted to your expansion strategy.</h5>
                           </div>
-                          <p>In our globalized world, ideas get copied and implemented by copycats at an incredible speed. By the time European startups are ready to expand to other continents the market is often already taken and it is hard to adapt to the culture. With Dymolab you can grow at the same speed in your base market and in Latin America.</p>
+                          <p>We execute our services and find the right team for the expansion , regarding if it is a agency distribution contract, if we are looking for local entrepreneurs to manage the expansion or managing director for the region.</p>
                       </div>
 
                   </div><div class="text-center col-sm-4">
                       <div class="feature">
                           <div class="text-center">
                               <i class="mb40 mb-xs-24 inline-block color-primary et-line-documents icon-lg"></i>
-                              <h5 class="uppercase">Find the best team</h5>
+                              <h5 class="uppercase">Modular services</h5>
                           </div>
-                          <p>When you think about expansion, finding a trusted team of entrepreneurs that would deploy your project with the right skills, network and control points is hard. At Dymolab we take care of this. We select a talented team and, with your approval, get started.</p>
+                          <p>we have a variety of services to support your expansion (from conformation of team to legal assistance) and for us it is ok if you only make us of the ones are more important for you.</p>
                       </div>
 
                   </div>
@@ -70,9 +70,9 @@
                       <div class="feature">
                           <div class="text-center">
                               <i class="mb40 mb-xs-24 inline-block color-primary et-line-map icon-lg"></i>
-                              <h5 class="uppercase">Test local market match</h5>
+                              <h5 class="uppercase">Partner and service provider</h5>
                           </div>
-                          <p>We know that not all models work exactly the same way in different cultures or countries. That's why at Dymolab we give a 2 months market match assessment, with the help of our advisors, mentors and entrepreneurs. We then change the necessary parts of the business model and start to roll out.</p>
+                          <p>When helping you to develop your venture we also like to jump us partners of the local company as minority shareholders and we use our corporate network to help this businesses grow</p>
                       </div>
 
                   </div>
@@ -87,7 +87,7 @@
           <div class="container">
               <div class="row">
                   <div class="col-sm-12 text-center">
-                      <h2 class="mb16">How to enter the program</h2>
+                      <h2 class="mb16">How to become a client</h2>
                       <p class="lead mb64">Easy, just follow the next steps</p>
                   </div>
               </div>
@@ -110,7 +110,7 @@
                               <h5 class="uppercase">MAKE A MEETING</h5>
                           </div>
                           <p>
-                              Arrange a meeting with one of our representatives in Europe (London, Brussels or Berlin). &nbsp;In this way we will let you know more about us and assess your business. &nbsp;</p>
+                              Arrange a meeting with one of our representatives. at the moment physical meeting are possible in europe or latin america. &nbsp;</p>
                              <p>
                                  <p>
 
@@ -123,9 +123,9 @@
                       <div class="feature feature-1 boxed">
                           <div class="text-center">
                               <i class="icon et-line-gears"></i>
-                              <h5 class="uppercase">tailor made agreement</h5>
+                              <h5 class="uppercase">select your services</h5>
                           </div>
-                          <p>For each startup we find the best deal that reflects the interests of all parties. In general we create share-deals, constitute new entities in Latin America and establish a sales or manufacturing representative agreement.</p>
+                          <p>We will assess your needs and together we can agree on a plan to get started.</p>
                             <p>
 
                             </p>

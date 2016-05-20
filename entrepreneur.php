@@ -30,7 +30,7 @@
     		        <div class="container">
     		            <div class="row">
     		                <div class="col-md-6">
-    		                    <h3 class="mb0">Entrepreneur in residence</h3>
+    		                    <h3 class="mb0"> Join a new scale-up entering operations to latin america</h3>
     		                </div>
     		                <div class="col-md-6 text-right">
                           <center>  <a class="btn-filled btn" href="#apply">Apply now</a>
@@ -46,7 +46,7 @@
     		        <div class="container">
     		            <div class="row mb64 mb-xs-24">
     		                <div class="col-sm-12 col-md-10 col-md-offset-1 text-center">
-    		                    <h3>What does it mean to be a Dymolab entrepreneur?</h3>
+    		                    <h3>What does it mean to be a part of a dymolab scale-up?</h3>
     		                </div>
     		            </div>
 
@@ -55,9 +55,10 @@
     		                    <div class="feature">
     		                        <div class="text-center">
     		                            <i class="mb40 mb-xs-24 inline-block color-primary et-line-key icon-lg"></i>
-    		                            <h5 class="uppercase">entrepreneur in residence</h5>
+    		                            <h5 class="uppercase">market development</h5>
     		                        </div>
-    		                        <p>Each entrepreneur is part of the Dymolab family and is also a co-founder of one of the projects. The &nbsp;2 + 6 months program is a full time commitment and entrepreneurs can expect to receive support, a working space, access to a network, guidance and funding. &nbsp;
+    		                        <p>Scale-ups have business model that has been proven in their own countries, as a leader of an expansion you or your organization will need to find out how to adapt the business model to the market needs and how to build partnerships and operations to make the business up and running.
+ &nbsp;
     		</p>
     		                    </div>
 
@@ -65,7 +66,7 @@
     		                    <div class="feature">
     		                        <div class="text-center">
     		                            <i class="mb40 mb-xs-24 inline-block color-primary et-line-profile-male icon-lg"></i>
-    		                            <h5 class="uppercase">First people, then ideas</h5>
+    		                            <h5 class="uppercase">Scale-up strategy</h5>
     		                        </div>
     		                        <p>At Dymolab we believe in people and only then in ideas. Therefore, our methodology is to focus on the individuals, to help them grow as entrepreneurs, and to give them the chance to act outside of the box. We give them the space to learn from their mistakes.
     		</p>
@@ -81,7 +82,7 @@
 
               <div class="col-sm-12 col-md-10 col-md-offset-1 text-center">
                   <h3>What we are looking for</h3>
-                  <p> Motivated , entrepreneur with the capacity to execute</p>
+                  <p> Motivated , entrepreneur minded individuals or organziations with the capacity to execute</p>
                   <p></p>
 
               </div>
@@ -108,7 +109,7 @@
     		                        </div>
     		                        <div class="right">
     		                            <h5 class="uppercase mb16">Profile</h5>
-    		                            <p>We are looking for professionals with technical backgrounds, design &amp; media, business and for each project an industry expert</p>
+    		                            <p>Professionals with the skills on our clients industries, this are (B2B, e-comerce, agrotech, foodtech and SAAS)</p>
     		                        </div>
     		                    </div>
 
@@ -120,7 +121,7 @@
     		                        </div>
     		                        <div class="right">
     		                            <h5 class="uppercase mb16">TEAM WORK</h5>
-    		                            <p>We highly value teamwork. During the first 2 months of the program entrepreneurs will be matched to create teams. &nbsp;</p>
+    		                            <p>managing international teams is not always easy. This is why we test our local talent in how to enage in teams and the capacity to learn from others. </p>
     		                        </div>
     		                    </div>
 
@@ -144,7 +145,7 @@
     		                        </div>
     		                        <div class="right">
     		                            <h5 class="uppercase mb16">`full time commitment</h5>
-    		                            <p>We only work with full time commitment individuals and make sure to set goals and checkpoints.</p>
+    		                            <p>We only work with individuals or organizations that can dedicate a reasonable amout of time every day to the operations of the comapnies</p>
     		                        </div>
     		                    </div>
 
@@ -156,7 +157,7 @@
     		                        </div>
     		                        <div class="right">
     		                            <h5 class="uppercase mb16">English</h5>
-    		                            <p>As you will be in contact with entrepreneurs from all over the world, an adequate proficiency in English is fundamental to lead a project.&nbsp; </p>
+    		                            <p>As you will be in contact with professionals from all over the world, an adequate proficiency in English is fundamental to lead a project.&nbsp; </p>
     		                        </div>
     		                    </div>
 
@@ -167,21 +168,7 @@
 
     		    </section>
 
-		    <section class="cover fullerscreen bg-secondary">
-                <div class="container-clearfix">
-                    <div class="row">
-                        <div class="col-sm-12 col-lg-8 col-lg-offset-2 col-xs-12 col-lg-8 col-lg-offset-2 text-center">
-                        <div style="position:relative ; padding-bottom: 87.5% ; height:240vh; margin-bottom: 0%">
-        		         <h3 class="uppercase mb0" id = "apply" style="margin-top:50px;color:#8dd0a9">Application Form</h3>
-						<iframe style = "position: absolute ; top:60px; left:0 ; width:100% ; height:60%"
-								src="https://docs.google.com/forms/d/18w9dle1MKm8DvV9ehHdkZ7PB-llb-v0UEDaWNgjE-Co/viewform?embedded=true"
-								frameborder="0"></iframe>
-                        </div>
 
-  						</div>
-        			</div>
-				</div>
-			</section>
 
 		<?php include_once($docpath . "/php/footer.php") ?>
 
