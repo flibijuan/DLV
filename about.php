@@ -26,7 +26,7 @@
     		        <div class="container">
     		            <div class="row">
     		                <div class="col-md-10">
-    		                    <h3 class="mb0">We believe that in todays globalized world exelence of implementation and the right local support are the keys to outperform competition when growing a business &nbsp;</h3>
+    		                    <h3 class="mb0">We believe we need key elements to succeed in today's globalized and competitive world, when it gets to growth and expansion, excellence of implementation and the right local support are key to outperform competition</h3>
     		                </div>
 
     		            </div>
@@ -44,9 +44,7 @@
     		                            <i class="mb40 mb-xs-24 inline-block color-primary et-line-flag icon-lg"></i>
     		                            <h5 class="uppercase">Mission</h5>
     		                        </div>
-    		                        <p>Become the best market expansion system in Latin
-
-    		</p>
+    		                        <p>Become the best market expansion system in Latin America by providing value added services to international companies and by being a perfect ally in an expansion strategy</p>
     		                    </div>
 
     		                </div>
@@ -56,7 +54,7 @@
     		                            <i class="mb40 mb-xs-24 inline-block color-primary et-line-compass icon-lg"></i>
     		                            <h5 class="uppercase">Vision</h5>
     		                        </div>
-    		                        <p>Bring all the worlds innovation to Latin America adapted to the local needs</p>
+    		                        <p>Being a relevant actor in providing latam with the best innovations and help the region socioeconomic growth and stability through development of local and international companies</p>
     		                    </div>
 
     		                </div>
@@ -146,12 +144,13 @@
     		                <div class="row mb32 mb-xs-16">
     		                    <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
     		                        <img alt="Article Image" class="mb32 mb-xs-16" src="img/dymolabbaner.jpg">
-    		                        <p class="lead">We've built a distinct entrepreneurship product. Dymolab implements Innovative proven business models in Latin America in order to create local impact and economic development in the region. The goal is twofold: firstly, to create impact in society by pushing the boundaries of innovation and making the Latam region at the same level in terms of technology than other regions like the USA or Europe. And secondly to create a competitive advantage for our clients by enabling them to efficiently scale-up their projects to Latin America.</p>
+    		                        <p class="lead">We've built a distinct entrepreneurship product. Dymolab implements Innovative proven business models in Latin America in order to create local impact and economic development in the region. The goal is two fold: firstly, to create impact in society by pushing the boundaries of innovation and making technology accessible for Latam region. And secondly to create a competitive advantage for our clients by enabling them to efficiently scale-up their projects to Latin America.</p>
                                 <p>We focus on: </p>
-                                <p>• finding the right project to expand to the region
-<br>• Diminishing the risks of setting up a startup on a foreign continent 
- <br>• Building a network of people passionate about entrepreneurship
- <br>• provide a cost efficient way to scale-up a business model</p>
+                                <p>• Finding the right project to expand in the region
+
+                                <br>• Diminishing the risks of setting up a startup on a foreign country
+                                 <br>• Building a network of people passionate about entrepreneurship
+                                 <br>• Provide a cost efficient way to scale-up a business model</p>
 
     		                    </div>
     		                </div>

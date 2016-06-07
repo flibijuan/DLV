@@ -96,8 +96,7 @@
     		                        </div>
     		                        <div class="right">
     		                            <h5 class="uppercase mb16">Expirience</h5>
-    		                            <p>A business developer at Dymolab is expected to have past entrepreneurial &nbsp;experience
-    		&nbsp;in building, managing or growing a project.</p>
+    		                            <p>AA business developer at Dymolab is expected to have past entrepreneurial experience in building, managing or growing a project.</p>
     		                        </div>
     		                    </div>
 
@@ -109,7 +108,7 @@
     		                        </div>
     		                        <div class="right">
     		                            <h5 class="uppercase mb16">Profile</h5>
-    		                            <p>Professionals with the skills on our clients industries, this are (B2B, e-comerce, agrotech, foodtech and SAAS)</p>
+    		                            <p>Professionals with the skills on our clients industries, these are (B2B, e-commerce, agrotech, foodtech and SAAS)</p>
     		                        </div>
     		                    </div>
 
@@ -121,7 +120,7 @@
     		                        </div>
     		                        <div class="right">
     		                            <h5 class="uppercase mb16">TEAM WORK</h5>
-    		                            <p>managing international teams is not always easy. This is why we test our local talent in how to enage in teams and the capacity to learn from others. </p>
+    		                            <p>Managing international teams is not always easy. This is why we test our local talent in how to engage in teams and the capacity to learn from others.</p>
     		                        </div>
     		                    </div>
 
@@ -133,7 +132,7 @@
     		                        </div>
     		                        <div class="right">
     		                            <h5 class="uppercase mb16">WORK WITH US</h5>
-    		                            <p>We place a great deal of importance on the team, on its solidity and on its ability to be coached and to take feedback. </p>
+    		                            <p>We place a great deal of importance on the team, on its solidity and on its ability to be coached and to take feedback.</p>
     		                        </div>
     		                    </div>
 
@@ -144,8 +143,8 @@
     		                            <i class="ti ti-check-box icon-sm"></i>
     		                        </div>
     		                        <div class="right">
-    		                            <h5 class="uppercase mb16">`full time commitment</h5>
-    		                            <p>We only work with individuals or organizations that can dedicate a reasonable amout of time every day to the operations of the comapnies</p>
+    		                            <h5 class="uppercase mb16">Full time commitment</h5>
+    		                            <p>We only work with individuals or organizations that can dedicate a reasonable amount of time every day to the operations of the companies</p>
     		                        </div>
     		                    </div>
 
@@ -157,7 +156,8 @@
     		                        </div>
     		                        <div class="right">
     		                            <h5 class="uppercase mb16">English</h5>
-    		                            <p>As you will be in contact with professionals from all over the world, an adequate proficiency in English is fundamental to lead a project.&nbsp; </p>
+    		                            <p>As you will be in contact with professionals from all over the world, an adequate proficiency in English is fundamental to lead a project.
+</p>
     		                        </div>
     		                    </div>
 

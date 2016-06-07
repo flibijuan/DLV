@@ -32,7 +32,7 @@
 		                    <div class="row text-center">
 		                        <div class="col-md-10 col-md-offset-1">
 		                            <h2 class="mb-xs-16">Meet Dymolab, the cleverest way<br class="hidden-sm"> to expand your company to Latin America.</h2>
-		                            <p class="lead mb40">We look for innovative projects and help them to enter the Latin American markets by finding the right local talent to develop the business and and providing all the support needed to scale up the project.</p>
+		                            <p class="lead mb40">We look for innovative projects and help them enter the Latin American market by finding the right local talent to develop the business and providing all the support needed to scale up the project.</p>
 		                            <a class="btn btn-lg" href="/services.php">Services</a>
 		                            <a class="btn btn-lg btn-filled" href="/startups.php">our aproach</a>
 		                        </div>
@@ -53,7 +53,7 @@
 		                            <i class="icon et-line-globe"></i>
 		                            <h4>Market fit assesment</h4>
 		                        </div>
-		                        <p>We make sure that you have a local proof of concept. We do this with our own experts or by advizing your team (local or international) on how, in a very lean way you yourself can test assumptions and understand the right scaling-up strategy to enter the region.
+		                        <p>We make sure you have a market proof of your business. We do this with our own experts or by leading your team in a lean way to test assumptions and understand the right scaling-up strategy to enter a new country
 <br><br></p>
 		                    </div>
 
@@ -64,8 +64,8 @@
 		                        <i class="icon et-line-profile-male"></i>
 		                            <h4>Create your local team</h4>
 		                        </div>
-		                        <p>We find outstanding entrepreneurs, organizations, managers and technical expertise for you to deploy your business. Throughout this process Dymmolab will be your ally in closing a deal with the local talent.
- <br><br><br></p>
+		                        <p>We find outstanding entrepreneurs, organizations, managers and technical expertise for you to deploy your business. Throughout this process Dymolab will be your ally in closing a deal with the local talent.
+ <br><br></p>
 		                    </div>
 
 		                </div>
@@ -75,7 +75,9 @@
 		                             <i class="icon et-line-hourglass"></i>
 		                            <h4> Go-to-market speed</h4>
 		                        </div>
-		                        <p>We believe that companies in expansion require efficiency in implementation and excellence in execution to generate a competitive advantage. At Dymolab we have you covered on all fronts: legal, strategy, office space, distribution channels, network of partner companies etc...
+		                        <p>We believe that companies in expansion require efficiency in implementation and excellence in execution to generate a competitive advantage. At Dymolab we have you covered on all fronts: legal, strategy, office space, distribution channels, network of partner companies etc…
+<br>
+
 </p>
 		                    </div>
 
@@ -93,8 +95,8 @@
                         <div class="row">
                             <div class="col-sm-12 text-center">
                                 <h3 class="mb0 inline-block p32 p0-xs">
-                                  Are you thinking about entering the >600m market in Latin America?</h3>
-                                <h4> we focus on supporting the innovation industry: getting tech products and services to market and adapt them to the local needs</h4>
+                                  Are you thinking about entering the Latin American market?</h3>
+                                <h4> We focus on supporting the innovation industry: getting tech products and services to market and adapt them to local needs</h4>
                             </div>
                         </div>
 
@@ -106,14 +108,14 @@
 
         <section class="image-edge">
         		        <div class="col-md-6 col-sm-4 p0 col-md-push-6 col-sm-push-8">
-        		            <img width="80%" alt="Screenshot" class="mb-xs-24" src="img/latinamerica.png">
+        		            <img width="80%" alt="Screenshot" class="mb-xs-24" src="img/dymolabmaplatin.png">
         		        </div>
         		        <div class="container">
         		            <div class="col-md-5 col-md-pull-0 col-sm-7 col-sm-pull-4 v-align-transform">
         		                <h1 class="large mb40 mb-xs-16">Starting from Colombia</h1>
 
         		                <p class="lead mb40">
-        		                We initiate the scale-up your project by first expanding your business to the more stable markets in the region. Our offices are in Bogota, Colombia, and we recommend our clients to start their expansion strategy here. As soon as the team in Colombia is up an running we will support you to enter other high potential markets like Mexico, Brazil and Chile.
+        		                We initiate the scale-up your project by first expanding your business in Colombia through our offices in Bogota, as it has been proved to be a great place to validate the culture in Latam. As soon as the team in Colombia is up and running we will support you to enter other high potential markets.
 
         		                </p>
 
@@ -127,7 +129,7 @@
 
 
 
-                <section class="image-bg bg-dark parallax overlay pt120 pb120">
+ <!--                <section class="image-bg bg-dark parallax overlay pt120 pb120">
         		        <div class="background-image-holder">
         		            <img alt="Background Image" class="background-image" src="img/app9.jpg">
         		        </div>
@@ -144,7 +146,7 @@
 
         		    </section>
 
-
+-->
 
 
 

@@ -31,7 +31,7 @@
           <div class="container">
               <div class="row">
                   <div class="col-md-6">
-                      <h3 class="mb0">Our Aproach: Lean and fast expansion to a market of more than 600 million customers</h3>
+                      <h3 class="mb0">Our Approach: Lean and fast expansion to  the latam market </h3>
                   </div>
 
               </div>
@@ -53,7 +53,7 @@
                               <i class="mb40 mb-xs-24 inline-block color-primary et-line-global icon-lg"></i>
                               <h5 class="uppercase">Adapted to your expansion strategy.</h5>
                           </div>
-                          <p>We execute our services and find the right team for the expansion , regarding if it is a agency distribution contract, if we are looking for local entrepreneurs to manage the expansion or managing director for the region.</p>
+                          <p>We execute our services and find the right team for the expansion, no matter what your strategy is, we will help you in the process with our services and consultants</p>
                       </div>
 
                   </div><div class="text-center col-sm-4">
@@ -62,7 +62,7 @@
                               <i class="mb40 mb-xs-24 inline-block color-primary et-line-documents icon-lg"></i>
                               <h5 class="uppercase">Modular services</h5>
                           </div>
-                          <p>we have a variety of services to support your expansion (from conformation of team to legal assistance) and for us it is ok if you only make us of the ones are more important for you.</p>
+                          <p>We have a variety of services to support your expansion (from conformation of team to legal assistance), because we believe the most important is for you to focus on your business and we can handle the rest</p>
                       </div>
 
                   </div>
@@ -72,7 +72,7 @@
                               <i class="mb40 mb-xs-24 inline-block color-primary et-line-map icon-lg"></i>
                               <h5 class="uppercase">Partner and service provider</h5>
                           </div>
-                          <p>When helping you to develop your venture we also like to jump us partners of the local company as minority shareholders and we use our corporate network to help this businesses grow</p>
+                          <p>When helping you to develop your venture we also like (if you are willing to) to jump us partners of the local company as minority shareholders and we use our corporate network to help this businesses grow</p>
                       </div>
 
                   </div>
